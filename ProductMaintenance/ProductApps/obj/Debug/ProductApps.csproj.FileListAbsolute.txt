@@ -27,3 +27,16 @@ C:\myproduct\SencondTafeProductAPP\ProductMaintenance\ProductApps\obj\Debug\Prod
 C:\myproduct\SencondTafeProductAPP\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
 C:\myproduct\SencondTafeProductAPP\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
 C:\myproduct\SencondTafeProductAPP\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
+C:\Mywrap\SencondTafeProductAPP\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+C:\Mywrap\SencondTafeProductAPP\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+C:\Mywrap\SencondTafeProductAPP\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\Mywrap\SencondTafeProductAPP\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe
+C:\Mywrap\SencondTafeProductAPP\ProductMaintenance\ProductApps\bin\Debug\ProductApps.pdb
+C:\Mywrap\SencondTafeProductAPP\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csprojResolveAssemblyReference.cache
+C:\Mywrap\SencondTafeProductAPP\ProductMaintenance\ProductApps\obj\Debug\MainWindow.baml
+C:\Mywrap\SencondTafeProductAPP\ProductMaintenance\ProductApps\obj\Debug\MainWindow.g.cs
+C:\Mywrap\SencondTafeProductAPP\ProductMaintenance\ProductApps\obj\Debug\App.g.cs
+C:\Mywrap\SencondTafeProductAPP\ProductMaintenance\ProductApps\obj\Debug\ProductApps_MarkupCompile.cache
+C:\Mywrap\SencondTafeProductAPP\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
+C:\Mywrap\SencondTafeProductAPP\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
+C:\Mywrap\SencondTafeProductAPP\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
